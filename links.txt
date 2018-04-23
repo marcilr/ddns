@@ -8,6 +8,10 @@ Dynamic DNS (DDNS or DynDNS) related links
 
 Links
 =====
+A list of dynamic DNS Servers, article on doc.pfsense.org,
+retrieved on 2017-02-17 21-59 UTC
+https://doc.pfsense.org/index.php/Dynamic_DNS
+
 Dynamic DNS
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Dynamic_DNS
