@@ -1,0 +1,13 @@
+links.txt
+Created Mon Apr 23 14:52:44 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Dynamic DNS (DDNS or DynDNS) related links
+
+
+Links
+=====
+Dynamic DNS
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Dynamic_DNS
