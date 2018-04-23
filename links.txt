@@ -11,3 +11,7 @@ Links
 Dynamic DNS
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Dynamic_DNS
+
+RFC 2136
+Dynamic Updates in the Domain Name System (DNS UPDATE)
+https://tools.ietf.org/html/rfc2136
