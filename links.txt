@@ -12,6 +12,9 @@ A list of dynamic DNS Servers, article on doc.pfsense.org,
 retrieved on 2017-02-17 21-59 UTC
 https://doc.pfsense.org/index.php/Dynamic_DNS
 
+Configure your network settings to use Google Public DNS
+https://developers.google.com/speed/public-dns/docs/using
+
 Dynamic DNS
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Dynamic_DNS
